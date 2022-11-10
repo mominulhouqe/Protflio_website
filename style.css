@@ -1,0 +1,10 @@
+.card{
+    box-shadow: 5px 3px 3px 4px blue;
+}
+.carousel-item {
+    font-style: italic;
+   
+}
+.carousel-item img{
+    margin-bottom: 15px;
+}
